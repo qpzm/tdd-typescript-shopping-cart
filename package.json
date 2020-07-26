@@ -1,5 +1,5 @@
 {
-  "name": "shopping-cart-unit-tests",
+  "name": "tdd-typescript-shopping-cart",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
